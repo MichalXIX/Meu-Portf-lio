@@ -1,6 +1,6 @@
 <h1>Portfólio do Miguel</h1>
 
-<img src="./Captura de tela 2025-03-09 213804.png"></img>
+<img src="./assets/Captura de tela 2025-04-01 201639.png"></img>
 
 <p>🚀 Meu Portfólio Está no Ar! 🚀
 
